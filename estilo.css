@@ -41,5 +41,11 @@ img{
     margin: 20px;
     width: 50%;
     padding: 10px;
+    transition: all 1s;
     
+}
+img:hover{
+    opacity: .8;
+    border: solid black ;
+    width: 53%;
 }
